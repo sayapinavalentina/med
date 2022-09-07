@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Meditation</string>
+    <string name="authtextt">Войти в акккаунт</string>
+    <string name="textallauth">Наслаждайся отборочными.\nБудь внимателен.\nДелай хорошо.</string>
+    <string name="hellotext">Привет</string>
+</resources>
